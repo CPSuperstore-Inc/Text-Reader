@@ -1,0 +1,9 @@
+Welcome To "Text Reader"! A Simple Text File Reading Program. Press "SPACE" To Continue.
+As You Can See, "SPACE" Advances Lines! This can be changed in the "key_bindings.txt" file in the "configurations" Folder.
+In "config.txt", which is located in the same folder as "key_bindings.txt", you can change some other properties.
+Some of these properties include the background color, Font Properties, text alignment, and which order to read files in!
+In fact, in this file, there are 12 properties which can be changed!
+If you need to quit the program, simply press "Escape". This can also be changed in "key_bindings.txt".
+If you run into any problems, E-Mail me immediately at cpsuperstoreinc@gmail.com. Set the E-Mail a high priority/important email, no matter the concern.
+Enjoy This Program, and have fun.
+Created by: Christopher P.

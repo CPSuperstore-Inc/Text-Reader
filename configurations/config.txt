@@ -1,0 +1,43 @@
+{
+    // Use True To Use Full Screen. False For Windowed Mode.
+    "Full Screen": True,
+
+    // Use True To Make Screen The Size Of Monitor, False To Specify Size Below
+    "Use Monitor Size": True,
+
+    // The Width Of The Screen In Pixels. Not Needed If "Use Monitor Size" Is True
+    "Screen Width": 1050,
+
+    // The Height Of The Screen In Pixels. Not Needed If "Use Monitor Size" Is True
+    "Screen Height": 450,
+
+    // The Files To Use, And The Order To Use Them In (First File, Second File, Third File...) THE FILE EXTENSION IS NEEDED!!!
+    "File Order": ['tutorial.txt'],
+
+    // The Name Of The Font To Use - MUST BE INSTALLED ON THE COMPUTER IN USE TO WORK!
+    "Font Name": "Arial",
+
+    // Size Of The Main Font, Which Displays Lines In The File
+    "Font Size": 40,
+
+    // Size Of The Footer Font, Which Displays The First Line At The Bottom Of The Screen
+    "Footer Size": 20,
+
+    // Message To BE Shown At End Of All Files. Leave Blank For Blank Screen
+    "End Message": "The Show Has Ended. Click To Exit.",
+
+    // Background Color Is The Screen's Back Color
+    "Background Color": (0, 0, 0),
+
+    // Foreground Color Is The Screen's Font Color
+    "Foreground Color": (255, 255, 255),
+
+    // Use "left", "center", or "right" (not case sensitive)
+    "Align Text": "center",
+
+    // Margin For Top, Left, And Right Of Screen, In Pixels
+    "Margin": 70,
+
+    // Footer Margin From Bottom Of The Screen, In Pixels
+    "Footer Margin": 10,
+}

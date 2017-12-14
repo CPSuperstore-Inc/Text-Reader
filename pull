@@ -1,0 +1,9 @@
+This file exists to direct the updater on which files to pull. 
+(anything that has a '/' infront is assumed a directory, and anything inside is taken)
+The updater starts after the line with the '*' character
+*
+/code
+/configurations
+/files
+Text Reader.py
+README.md

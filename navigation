@@ -1,0 +1,19 @@
+To run the game, double-click 'Text Reader.py' in the root directory.
+all of the python code is in the 'code' folder.
+NOTE: '__init__.py' is blank, and should always be blank
+
+configurations/settings are in the 'configurations' folder. The data structure of this 
+closley resembles JSON, but is actualy a python dictonary spaced over many lines
+in both configuration files, blank lines are ignored, and any line CONTAINING a 
+double forward slash (//) is ignored as well.
+
+the text files for the program to read are in the 'files' folder.
+
+If you want the program as an executable file (.exe) please go to my website's page for this game.
+The link is here:
+http://cpsuperstore.pythonanywhere.com/games/Text%20Reader
+
+Have fun, and please contribute to the development of this project.
+
+Thanks
+- Christopher P. (CPSuperstore)

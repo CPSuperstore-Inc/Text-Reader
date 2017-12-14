@@ -1,0 +1,13 @@
+{
+    // To get the key code, simply run "Key Codes.exe", and hold down the desired key.
+    // The Key's code will be displayed. Place it in it's appropriate location in this file.
+
+    // Key For Advancing Page (Default = 32 - Space)
+    "Next": 32,
+
+    // Key For Advancing Page (Default = 8 - Backspace)
+    "Back": 8,
+
+    // Key For Exiting Program (Default = 27 - Escape)
+    "Exit": 27,
+}
